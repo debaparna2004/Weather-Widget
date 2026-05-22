@@ -15,3 +15,5 @@ A lightweight, embeddable weather widget that displays real-time weather informa
 - CSS3  
 - JavaScript (ES6)
 - OpenWeatherMap API
+
+- DEMO LINK: https://debaparna2004.github.io/Weather-Widget/
